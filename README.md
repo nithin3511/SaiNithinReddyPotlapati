@@ -35,6 +35,8 @@ Aspiring Data Scientist | Python & SQL Learner | Building Daily
 - ⏳ Build 5+ Data Analysis Projects
 - ⏳ Start Machine Learning
 
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithin3511
+&show_icons=true&theme=radical)
 
 
 ## 🤝 Connect With Me
