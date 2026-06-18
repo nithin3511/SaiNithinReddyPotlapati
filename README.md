@@ -30,8 +30,6 @@ Aspiring Data Scientist | Python & SQL Learner | Building Daily
 
 
 ## 📈 2026 Goals
-- ✔ Master Python fundamentals
-- ✔ Become strong in SQL queries
 - ⏳ Build 5+ Data Analysis Projects
 - ⏳ Start Machine Learning
 
