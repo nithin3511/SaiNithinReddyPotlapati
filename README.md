@@ -15,7 +15,7 @@ Aspiring Data Scientist | Python & SQL Learner | Building Daily
 ## 🛠️ Tech Stack
 - 💻 Python
 - 🗄️ SQL
-- 📊 Pandas (learning)
+- 📊 Pandas
 - 📈 Matplotlib (learning)
 - 🔢 NumPy (learning)
 
